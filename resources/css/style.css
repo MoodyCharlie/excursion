@@ -3,6 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-color: black;
+    font-weight: normal;
 }
 
 
@@ -15,4 +16,15 @@ p {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
+}
+
+/* travel guide */
+h2 {
+    font font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
 }
