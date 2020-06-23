@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+
+/* header section */
+h1 {
+    font-size: 50px;
+}
+
+p {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
